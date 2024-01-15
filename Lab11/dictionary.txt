@@ -1,0 +1,1 @@
+{'Courses': {'Math': {'totalmarks': 100, 'obtainedmarks': 50}, 'Science': {'totalmarks': 100, 'obtainedmarks': 60}}}
